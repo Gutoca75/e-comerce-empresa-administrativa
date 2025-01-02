@@ -1,3 +1,8 @@
-# e-comerce-empresa-administrativa
-Este é projeto feito em PHP e MySQL
-#Teste
+# E-comerce-empresa-administrativa
+
+Criando E-comerce
+
+## Funcionalidades:
+
+Home, Tela de produtos
+
