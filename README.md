@@ -6,3 +6,7 @@ Criando E-comerce
 
 Home, Tela de produtos
 
+#### Atividades:
+
+Criação de markdown
+
