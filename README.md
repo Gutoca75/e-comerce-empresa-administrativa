@@ -13,4 +13,11 @@ Criando **E-comerce** empresa *administrativa*
 * Css
 * Php
 
+## Funcionalidades secundárias:
+
+1. Word
+2. Excel
+3. Powerpoint
+
+
 
