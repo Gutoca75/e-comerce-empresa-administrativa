@@ -4,7 +4,7 @@ Criando **E-comerce** empresa *administrativa*
 
 ## Funcionalidades:
 
-Home, Tela de produtos
+**Home, Tela de produtos**
 
 #### Atividades:
 
