@@ -16,6 +16,9 @@ Criando **E-comerce** empresa *administrativa*
 ## Funcionalidades secundárias:
 
 1. Word
+    1. Textos
+    2. Paragrafos
+    
 2. Excel
 3. Powerpoint
 
