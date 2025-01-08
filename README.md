@@ -27,3 +27,8 @@ Criando **E-comerce** empresa *administrativa*
 ![logo python](img/python-logo-master-v3-TM.png)
 
 
+### Imagem Externa 
+
+![logo python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+  
+
