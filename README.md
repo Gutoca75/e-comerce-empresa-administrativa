@@ -18,9 +18,12 @@ Criando **E-comerce** empresa *administrativa*
 1. Word
     1. Textos
     2. Paragrafos
-    
+
 2. Excel
 3. Powerpoint
 
+### Imagem local
+
+![logo python](img/python-logo-master-v3-TM.png)
 
 
