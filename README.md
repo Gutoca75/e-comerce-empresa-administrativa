@@ -15,7 +15,7 @@ Criando **E-comerce** empresa *administrativa*
 
 ## Funcionalidades secundárias:
 
-Listas
+Listas Numeradas
 1. Word
     1. Textos
     2. Paragrafos
